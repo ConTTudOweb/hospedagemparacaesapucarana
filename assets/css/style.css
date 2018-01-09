@@ -64,8 +64,7 @@ body {
 }
 
 .redessociais>a>img {
-  max-width: 10%;
-  padding: 20px;
+  width: 70px;
 }
 
 /* Padding for spacing */
@@ -110,7 +109,7 @@ body {
   border-bottom-color: #fff;
 }
 
-@media (min-width: 768px) {
+@media  (min-width: 768px) {
   .masthead-brand {
     float: left;
   }
@@ -152,7 +151,7 @@ body {
  * Affix and center
  */
 
-@media (min-width: 768px) {
+@media only screen {
   /* Pull out the header and footer */
   .masthead {
     position: fixed;

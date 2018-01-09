@@ -63,6 +63,11 @@ body {
   margin-left: auto;
 }
 
+.redessociais>a>img {
+  max-width: 10%;
+  padding: 20px;
+}
+
 /* Padding for spacing */
 .inner {
   padding: 30px;

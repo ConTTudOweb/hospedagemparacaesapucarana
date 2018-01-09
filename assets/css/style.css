@@ -127,6 +127,10 @@ body {
   padding: 0 20px;
 }
 
+p {
+  font-size: 80%;
+}
+
 .cover img {
   width: 50%;
 }

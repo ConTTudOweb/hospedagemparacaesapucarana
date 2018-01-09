@@ -132,6 +132,10 @@ p {
   text-align: justify and center;
 }
 
+.email {
+  font-size: 75%;
+}
+
 .cover img {
   width: 50%;
 }
